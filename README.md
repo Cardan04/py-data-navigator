@@ -1,5 +1,9 @@
 # py-data-navigator 
 
+Duração da execução do projeto  45 sec
+
+entre pergunta e criação do Audio
+
 O **Data Navigator** é uma ferramenta de automação inteligente desenvolvida em Python que utiliza o modelo **Gemini 2.5 Flash** para analisar capturas de tela de dados (como planilhas do Excel), extrair insights críticos e converter o relatório final em áudio (MP3).
 
 Ideal para acessibilidade e auditoria rápida de dados visuais.
@@ -63,6 +67,10 @@ Este projeto foi desenvolvido para fins de estudo e demonstração de capacidade
 ---
 
 # py-data-navigator 
+
+Project execution time: 45 seconds
+
+(between question and audio creation)
 
 The **Data Navigator** is an intelligent automation tool developed in Python that uses the **Gemini 2.5 Flash** model to analyze screenshots of data (such as Excel spreadsheets), extract critical insights, and convert the final report into audio (MP3).
 
