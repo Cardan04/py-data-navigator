@@ -1,5 +1,7 @@
 # py-data-navigator 
 
+link:https://datanavigator.lovable.app/spreadsheets
+
 Duração da execução do projeto  45 sec
 
 entre pergunta e criação do Audio
